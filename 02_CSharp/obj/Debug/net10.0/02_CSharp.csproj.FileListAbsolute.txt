@@ -1,0 +1,15 @@
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\bin\Debug\net10.0\02_CSharp.exe
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\bin\Debug\net10.0\02_CSharp.deps.json
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\bin\Debug\net10.0\02_CSharp.runtimeconfig.json
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\bin\Debug\net10.0\02_CSharp.dll
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\bin\Debug\net10.0\02_CSharp.pdb
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.AssemblyInfoInputs.cache
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.AssemblyInfo.cs
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.sourcelink.json
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.dll
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\refint\02_CSharp.dll
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.pdb
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\02_CSharp.genruntimeconfig.cache
+C:\Users\steve_tja1y\OneDrive\Documentos\Visual Studio Code\Cursos\02_CSharp\obj\Debug\net10.0\ref\02_CSharp.dll
