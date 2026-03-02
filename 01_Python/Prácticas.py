@@ -5,7 +5,10 @@
 
 # Práctica de imprimir en mayúscula las letras iniciales de mi nombre y apellido.
 
-print("     SSSSSS", "  MMMMM")
-print("    SS", "       MM   MM")
-print("     SS", "      MM   MM")
-print("       SS", "    MM   MM")
+print(" sss    MMM          MMM")
+print("S   S   MM M        M MM")
+print("S       MM  M      M  MM")
+print(" SSS    MM   M    M   MM")
+print("    S   MM    M  M    MM")
+print("S   S   MM     MM     MM")
+print(" SSS    MM            MM")
