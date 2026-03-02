@@ -12,3 +12,4 @@ que puede abarcar más de una línea.
 print(type("Hola que tal"))  # Imprime el tipo de dato de la cadena
 print(type(42))              # Imprime el tipo de dato del número entero
 print(type(3.14))            # Imprime el tipo de dato del número flotante
+print(type(2+3j))            # Imprime el tipo de dato del número complejo
